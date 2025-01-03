@@ -1,0 +1,3 @@
+VERSION = "RubyOS 1.0"
+UI_VERSION = "RubyUI 1.0 Figma"
+AVAILABLE_PROMPT = "TAB"
